@@ -1,0 +1,8 @@
+// State of plates
+export const GET_PLATES_SUCCESS = 'GET_PLATES_SUCCESS';
+
+export const SELECT_PLATE = 'SELECT_PLATE';
+export const CONFIRM_PLATE_ORDER = 'CONFIRM_PLATE_ORDER';
+export const SHOW_SUMMARY = 'SHOW_SUMMARY';
+export const REMOVE_ITEM = 'REMOVE_ITEM';
+export const ORDER_ORDERED = 'ORDER_ORDERED';
