@@ -16,5 +16,5 @@ It's a React Native app, where a customer can select the menu that he wanted to 
 Make sure that you have install all the modules before the execution.
 
 
-To run the app on your emulator, please run: 
+To run the app on your IOS emulator, please run: 
 `npx react-native run-ios`
